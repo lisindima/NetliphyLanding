@@ -1,5 +1,5 @@
 #page title
-page_title                                : Netlify                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Netliphy                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1559050579                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -48,7 +48,7 @@ device_color                              : white                               
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#FFF9B0"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -57,7 +57,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#FFF9B0"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
