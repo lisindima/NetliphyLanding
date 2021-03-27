@@ -10,7 +10,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Netliphy                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Netliphy is designed to make it easy to manage your Netlify hosted sites using your iPhone or iPad!
 
@@ -34,6 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : List of sites
+    description                           : View a list of your sites and your teams.
+    fontawesome_icon_name                 : list
+    
+  - title                                 : Monitor your deployments
+    description                           : You can control the deployment of your sites using logs.
+    fontawesome_icon_name                 : monitor-heart-rate
+
+  - title                                 : Site settings
+    description                           : View the settings of your sites.
+    fontawesome_icon_name                 : cog
 
 # Theme Settings
 topbar_color                              : "#000000"
