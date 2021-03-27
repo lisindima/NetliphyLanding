@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Monitor your deployments
     description                           : You can control the deployment of your sites using logs.
-    fontawesome_icon_name                 : monitor-heart-rate
+    fontawesome_icon_name                 : star
 
   - title                                 : Site settings
     description                           : View the settings of your sites.
